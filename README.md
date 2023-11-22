@@ -8,7 +8,7 @@ Follow these steps to set up and execute the automated tests:
 
 ```
 git clone https://github.com/lucasfop/beontech
-cd your-repo
+cd beontech
 npm install
 npx cypress open
 ```
